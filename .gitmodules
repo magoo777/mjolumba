@@ -1,0 +1,4 @@
+[submodule "mjolumba"]
+	path = mjolumba
+	url = git@github.com:magoo777/mjolumba.git
+	branch = master
